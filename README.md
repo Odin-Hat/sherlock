@@ -34,7 +34,7 @@ $ cd sherlock
 # install the requirements
 $ python3 -m pip install -r requirements.txt
 ```
-
+### OBS:. If you are using Termux remove `import pandas as pd` from the code. For Sherlock to work just remove `pandas` from the code 
 ## Usage
 
 ```console
